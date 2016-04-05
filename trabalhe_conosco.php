@@ -411,9 +411,9 @@
                 <span class="left col-xs-1 fa fa-map-marker"></span>
                 <span class="right col-xs-11">Escritório de Apoio: Rua Professora Maria Alves Castilho, 1592 - Santa Mônica - Uberlândia - MG   CEP: 38408-260 </span>
                 <div class="clear height10"></div>
-                <!--<span class="left col-xs-1 fa fa-map-marker"></span>-->
-                <!--<span class="right col-xs-11">Escritório de Apoio: Av. Nossa Senhora de Copacabna, 195 - Sala 908 - Copacabana - Rio de Janeiro - RJ</span>-->
-                <div class="clear height10"></div>
+                <span class="left col-xs-1 fa fa-map-marker"></span>
+                <span class="right col-xs-11">Escritório de Apoio: Rua Cotoxó, 303 Sala 102 Vila Pompéia São Paulo - SP</span>
+                 <div class="clear height10"></div>
                 <div class="clear"></div>
             </div>
         </div>

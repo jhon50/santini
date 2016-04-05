@@ -404,7 +404,7 @@ echo "Informações do erro:
           <div class="col-md-12">
             <div class="templatemo_maps">
               <div class="fluid-wrapper">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.583725548888!2d-43.17930848546693!3d-22.965552945743244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bd555a80e75bd%3A0x20a8a8c15cc8cea8!2sAv.+Nossa+Sra.+de+Copacabana%2C+195+-+Copacabana%2C+Rio+de+Janeiro+-+RJ!5e0!3m2!1spt-BR!2sbr!4v1456254682319" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3094.9120620187264!2d-42.62751073587554!3d-22.709968104930695!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x99d98bbed0cdb5%3A0x7af357a6b72bd9da!2sR.+Get%C3%BAlio+Vargas%2C+42+-+Centro%2C+Rio+Bonito+-+RJ%2C+28800-000!5e0!3m2!1sen!2sbr!4v1459863709163" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
               </div>
             </div>
           </div>
@@ -726,8 +726,8 @@ Jul/15 à presente data." alt="client image 5" />
                 <span class="left col-xs-1 fa fa-map-marker"></span>
                 <span class="right col-xs-11">Escritório de Apoio: Rua Professora Maria Alves Castilho, 1592 - Santa Mônica - Uberlândia - MG   CEP: 38408-260 </span>
                 <div class="clear height10"></div>
-                <!--<span class="left col-xs-1 fa fa-map-marker"></span>-->
-                <!--<span class="right col-xs-11">Escritório de Apoio: Av. Nossa Senhora de Copacabna, 195 - Sala 908 - Copacabana - Rio de Janeiro - RJ</span>-->
+                <span class="left col-xs-1 fa fa-map-marker"></span>
+                <span class="right col-xs-11">Escritório de Apoio: Rua Cotoxó, 303 Sala 102 Vila Pompéia São Paulo - SP</span>
                 <div class="clear height10"></div>
                 <div class="clear"></div>
             </div>
