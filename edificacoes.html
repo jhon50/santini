@@ -2,9 +2,10 @@
 <html>
 
 <head>
-    <title>Santini Topografia</title>
-    <meta name="keywords" content="" />
-    <meta name="description" content="" />
+    <title>Santini Topografia – Agrimensura e Geodésia</title>
+    <meta name="keywords" content="TOPOGRAFIA RJ : Encontre aqui informações completas sobre: Topografia RJ, Levantamentos Topográficos Planialtimétricos Cadastrais, Locação de Obras, Acompanhamento e Fiscalização / Topografia no Rio de Janeiro, Agrimensura, Possuímos Equipamentos Topógrafos e Profissionais altamente qualificados com mais de 10 anos de experiência. Topografia é a ciência que estuda todos os acidentes geográficos definindo a situação e a localização deles numa área qualquer. Tem a importância de determinar analiticamente as medidas de área e perímetro, localização, orientação, variações no relevo, etc e ainda representá-las graficamente em cartas(ou plantas) topográficas. A topografia é também instrumento fundamental para a implantação(chamadas locações) e acompanhamentos de obras como: projeto viário, edificações, urbanizações(loteamentos), movimento de terra(cubagem de terra), etc. O termo só se aplica a áreas relativamente pequenas, sendo utilizado o termo geodésia quando se fala de áreas maiores. Para isso são usadas coordenadas que podem ser duas distâncias e uma elevação, ou uma distância, uma elevação e uma direção." />
+    <meta name="description" content="Fundada em novembro de 1999, a SANTINI TOPOGRAFIA tem sua sede no Rio de Janeiro - RJ e escritórios em São Paulo – SP e Uberlândia – MG." />
+    <meta name="robots" context="index,follow">
     <!-- 
     Smoothy Template 
     http://www.templatemo.com/tm-396-smoothy
